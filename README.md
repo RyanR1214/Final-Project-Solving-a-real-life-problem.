@@ -1,2 +1,2 @@
 # Ryan_Software_Projects
-These are some projects from my software development class
+This is a vector calculator I made in class with my group members.
