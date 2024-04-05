@@ -1,0 +1,3 @@
+Final project, real life problem explanation
+This is a vector calculator that displays the vector on the cartesian plane.
+You are able to add and substract vectors with this calculator.
